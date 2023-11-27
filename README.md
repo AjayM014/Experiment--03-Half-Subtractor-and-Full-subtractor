@@ -35,20 +35,42 @@ Write the detailed procedure here
 ## Program:
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: AJAY M
+RegisterNumber:  23013424
 */
+## Half subtractor
+![image](https://github.com/AjayM014/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150011759/74356a5d-968a-4d5d-a120-a720ef0e7d85)
+
+## Full subtractor
+![image](https://github.com/AjayM014/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150011759/681900a0-ad0b-4fdc-b951-5a1f73ac214b)
+
 
 ## Output:
+## Half subtractor
 
 ## Truthtable
+![image](https://github.com/AjayM014/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150011759/e9340aa9-e0b9-46e3-836e-c09eea60e1f6)
 
 
 
 ##  RTL realization
+![image](https://github.com/AjayM014/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150011759/e631f4f0-e8c5-491b-ab49-b3b41545468a)
 
 
 ## Timing diagram 
+![image](https://github.com/AjayM014/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150011759/13e282a6-1e13-4fea-9030-51f3c462d077)
+
+
+## Full subtractor
+
+## Truthtable
+![image](https://github.com/AjayM014/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150011759/0c72a27e-7b32-4175-be58-023207e5af03)
+
+## RTL realization
+![image](https://github.com/AjayM014/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150011759/281ce3a1-a299-47d2-a551-882ab9720758)
+
+## Timimg diagram
+![image](https://github.com/AjayM014/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/150011759/c1456b8b-be6f-48fe-b1c7-2f637329553c)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
